@@ -1,0 +1,20 @@
+msg:
+  noper: '&cNemas opravnenia robit tuto vec.'
+  login_usage: '&cPrihlasenie: /login <heslo>'
+  login_success: '&aUspesne Prihlaseny!'
+  login_wrongpw: "\xa7cZle Heslo!"
+  register_usage: '&cRegistracia: &e/register <password>'
+  register_usage_success: "\xa7cUspesne si sa zaregistroval !"
+  please_login: "\xa7cProsim Prihlas sa! &e /login <password>"
+  please_register: '&cProsim Registruj sa: &e /register <password>'
+  usage_unregister: '&cOdregistrovanie: /unregister <VaseMeno>'
+  unregister_succes: '&cUspesne si sa odregistroval : &a%player% &c!'
+  changepassword_usage: '&cZmena Hesla: /changepw <VaseMeno> <NoveHeslo>!'
+  changepassword_success: '&cUspesne si si zmenil heslo! : &a%player% &c!'
+ 
+ 
+ Added These Commands to Plugins. Still under Development.
+ 
+ (Cz/Sk - Translation)
+ 
+ By KimiCZ Plugin - AuthMe (LoginSystem)
